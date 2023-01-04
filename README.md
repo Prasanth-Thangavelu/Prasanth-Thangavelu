@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth-thangavelu&label=Profile%20views&color=0e75b6&style=flat" alt="Prasanth-Thangavelu" /> </p>
 
-- 🔭 I’m currently working on [DHL IT Services](https://www.dpdhl.com/en.html)
+- 🔭 I’m currently working on [Accenture]
 
 - 👨‍💻 I'm a RPA DevOps Engineer
 
